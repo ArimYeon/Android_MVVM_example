@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM_test</string>
+    <string formatted="false" name="star_format">Stars : %d</string>
+</resources>
